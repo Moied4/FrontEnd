@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Moied Ahmed - Resume</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <h1>Moied Ahmed</h1>
+    <h3>Computer Science Student</h3>
+    <p>I am a dedicated and curious Computer Science student with a strong interest in software development and technology. I enjoy learning new tools and building practical solutions.</p>
+
+    <!-- Contact Information -->
+    <h2>Contact Information</h2>
+    <ul>
+        <li>Email: ahmedmoied7@gmail.com</li>
+        <li>Phone: 263-688-2749</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/moiedahmed" target="_blank">linkedin.com/in/moiedahmed</a></li>
+        <li>GitHub: <a href="https://github.com/moiedahmed" target="_blank">github.com/moiedahmed</a></li>
+    </ul>
+
+    <!-- Education Section -->
+    <h2>Education</h2>
+    <h3>Vanier College</h3>
+    <p>Software Development<br>
+    Class of 2026</p>
+
+    <!-- Skills Section -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML & CSS</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>Team Collaboration</li>
+        <li>Problem Solving</li>
+    </ul>
+
+    <!-- Languages & Skills Section -->
+    <h2>Languages & Skills</h2>
+    <ul>
+        <li>English (Fluent)</li>
+        <li>French (Intermediate)</li>
+        <li>Urdu (Native)</li>
+        <li>Python (Skilled)</li>
+        <li>Java (Skilled)</li>
+    </ul>
+
+</body>
+</html>
