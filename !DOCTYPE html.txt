@@ -35,6 +35,7 @@
         <li>JavaScript</li>
         <li>Team Collaboration</li>
         <li>Problem Solving</li>
+        <li>Creative</li>
     </ul>
 
     <!-- Languages & Skills Section -->
